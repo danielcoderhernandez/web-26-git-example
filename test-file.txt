@@ -3,9 +3,4 @@ This is an example for my second git commit.
 
 
 
-
-a;lksjdfa;lsfjk
-;alskdfj;asdlfkj
-;alkdsf;asldfkj
-;laklsjdf;ldsklfj
-;laskdf;lsadfkj
+edit via github
